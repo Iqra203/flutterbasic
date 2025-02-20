@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\grid view task.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\grid view task.dart"
+        }
+    ]
+}
